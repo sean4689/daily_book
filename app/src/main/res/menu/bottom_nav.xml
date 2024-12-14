@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/book_24"
+        android:title="每日推薦"
+        />
+    <item
+        android:id="@+id/Discover"
+        android:icon="@drawable/search_24"
+        android:title="發現"
+        />
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/favorite_24"
+        android:title="收藏" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings_24"
+        android:title="設定" />
+</menu>
